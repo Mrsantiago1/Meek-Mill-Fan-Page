@@ -1,0 +1,11 @@
+body{
+  background: black;
+  color: gold;
+  text-align: center;
+}
+h3{
+  margin-top: 40px;
+}
+li {
+  list-style: none;
+}
